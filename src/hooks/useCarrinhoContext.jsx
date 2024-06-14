@@ -1,7 +1,7 @@
 //usar a palavra use, indica que estamos criando um hook customizado.
 
 import { useContext, useEffect } from "react";
-import { CarrinhoContext} from "@/context/CarrinhoContext";
+import { CarrinhoContext } from "@/context/CarrinhoContext";
 
 
 
